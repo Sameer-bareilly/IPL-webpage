@@ -1,0 +1,19 @@
+div {
+height:30px;
+}
+
+div ul{
+list-style:none;
+float:right;
+}
+div ul li{
+display: inline-block;
+padding:0px 10px;
+}
+div ul li a{
+
+
+
+
+}
+
